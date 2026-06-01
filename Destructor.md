@@ -21,9 +21,12 @@ The program defines a class `Demo` with:
    - Create an instance of the `Demo` class.
    - Delete the object using the `del` keyword.
 ## Program
-Add code Here
+
+<img width="798" height="370" alt="image" src="https://github.com/user-attachments/assets/ec84336b-d170-4563-a379-ada884641d85" />
+
 
 ## 🧪 Output
+<img width="602" height="218" alt="image" src="https://github.com/user-attachments/assets/03043197-6f25-4912-ab46-3eae29149fe5" />
 
 ## Result
-
+The output is verified successfully.
